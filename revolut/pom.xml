@@ -11,7 +11,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<restlet-version>2.3.9</restlet-version>
+		<restlet-version>2.4.2</restlet-version>
 	</properties>
 
 	<dependencies>
